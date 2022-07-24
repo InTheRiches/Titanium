@@ -1,0 +1,5 @@
+name: Titanium
+version: '${version}'
+main: net.projektcontingency.titanium.Titanium
+api-version: 1.17
+authors: [ riches_exe ]
